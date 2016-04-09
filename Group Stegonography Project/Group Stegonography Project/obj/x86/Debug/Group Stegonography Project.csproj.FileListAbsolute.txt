@@ -1,0 +1,18 @@
+E:\Documents\Freelance Coding\100 Challenges\Group Stegonography Project\Group Stegonography Project\bin\Debug\Group Stegonography Project.exe
+E:\Documents\Freelance Coding\100 Challenges\Group Stegonography Project\Group Stegonography Project\bin\Debug\Group Stegonography Project.pdb
+E:\Documents\Freelance Coding\100 Challenges\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group Stegonography Project.csprojResolveAssemblyReference.cache
+E:\Documents\Freelance Coding\100 Challenges\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group_Stegonography_Project.frmMain.resources
+E:\Documents\Freelance Coding\100 Challenges\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group_Stegonography_Project.Properties.Resources.resources
+E:\Documents\Freelance Coding\100 Challenges\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group Stegonography Project.csproj.GenerateResource.Cache
+E:\Documents\Freelance Coding\100 Challenges\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group Stegonography Project.exe
+E:\Documents\Freelance Coding\100 Challenges\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group Stegonography Project.pdb
+C:\Users\computing\Downloads\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group Stegonography Project.exe
+C:\Users\computing\Downloads\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group Stegonography Project.pdb
+C:\Users\computing\Downloads\Group Stegonography Project\Group Stegonography Project\bin\Debug\Group Stegonography Project.exe
+C:\Users\computing\Downloads\Group Stegonography Project\Group Stegonography Project\bin\Debug\Group Stegonography Project.pdb
+C:\Users\computing\Downloads\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group Stegonography Project.csprojResolveAssemblyReference.cache
+C:\Users\computing\Downloads\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group_Stegonography_Project.frmMain.resources
+C:\Users\computing\Downloads\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group_Stegonography_Project.Properties.Resources.resources
+C:\Users\computing\Downloads\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group Stegonography Project.csproj.GenerateResource.Cache
+C:\Users\Jake\Desktop\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group Stegonography Project.exe
+C:\Users\Jake\Desktop\Group Stegonography Project\Group Stegonography Project\obj\x86\Debug\Group Stegonography Project.pdb

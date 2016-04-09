@@ -79,6 +79,11 @@ namespace Group_Stegonography_Project
         {
 
         }
+
+        private void frmMain_Load(object sender, EventArgs e)
+        {
+
+        }
     }
     public static class Globals
     {

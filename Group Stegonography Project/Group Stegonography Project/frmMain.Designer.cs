@@ -202,6 +202,7 @@
             this.MainMenuStrip = this.stripFile;
             this.Name = "frmMain";
             this.Text = "CS15 Steganography Tool";
+            this.Load += new System.EventHandler(this.frmMain_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pBoxMain)).EndInit();
             this.stripFile.ResumeLayout(false);
             this.stripFile.PerformLayout();
